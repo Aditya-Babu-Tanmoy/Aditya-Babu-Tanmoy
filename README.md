@@ -14,7 +14,7 @@ Skills: CPP
 - 📫 How to reach me: https://codeforces.com/profile/No_name1220 <br>
 adityababutanmoy1234@gmail.com<br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aditya-Babu-Tanmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-babu-tanmoy-2025abt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNbeTlzbuSUOBtrh3V%2B%2F52Q%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC7Z9jumhIrf7qsdkowrgYTg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aditya-Babu-Tanmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-babu-tanmoy-2025abt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC7Z9jumhIrf7qsdkowrgYTg)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Babu-Tanmoy)](https://github.com/anuraghazra/github-readme-stats)
 
