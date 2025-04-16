@@ -11,8 +11,8 @@ Skills: CPP
 
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about C++ Programming 
-- 📫 How to reach me: https://codeforces.com/profile/No_name1220 
-
+- 📫 How to reach me: https://codeforces.com/profile/No_name1220 <br>
+adityababutanmoy1234@gmail.com<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aditya-Babu-Tanmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-babu-tanmoy-2025abt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNbeTlzbuSUOBtrh3V%2B%2F52Q%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC7Z9jumhIrf7qsdkowrgYTg)  
 
